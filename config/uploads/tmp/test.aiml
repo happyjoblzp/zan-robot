@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aiml PUBLIC "-//W3C//DTD Specification Version 1.0//EN" "http://www.program-o.com/xml/aiml.dtd">
+<aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1">
+    <category><pattern>dog入口</pattern>
+        <template>
+            <random>
+                <li>您好！需要什么服务？</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>有</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>有的</pattern><that>您好！我可以帮助您？</that><template>我这候着呢</template></category>
+    <category><pattern>有很多</pattern><that>您好！请问有什么可以帮助您？</that><template>有很多，回答</template></category>
+    <category><pattern>有啊哈</pattern><that>您好！请问有什么可以帮助您？</that><template>有啊哈，回答</template></category>
+ 
+</aiml>

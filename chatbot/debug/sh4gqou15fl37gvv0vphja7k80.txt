@@ -1,0 +1,1595 @@
+27-02-2016 22:34:37.70519[0][4] - Elapsed time: 0.516 milliseconds
+[conversation_start.php][Called outside of function][25]
+Conversation Starting. Program O version 2.4.8
+PHP  version 5.5.9-1ubuntu4.14
+OS: Linux version #57-Ubuntu SMP Tue Jul 15 03:51:08 UTC 2014 
+-----------------------
+27-02-2016 22:34:37.70532[4][4] - Elapsed time: 0.121 milliseconds
+[load_aimlfunctions.php][Called outside of function][15]
+AIML function include files loaded 
+-----------------------
+27-02-2016 22:34:37.7054[4][4] - Elapsed time: 0.084 milliseconds
+[load_convofunctions.php][Called outside of function][15]
+Convofunction include files loaded 
+-----------------------
+27-02-2016 22:34:37.70543[4][4] - Elapsed time: 0.035 milliseconds
+[load_userfunctions.php][Called outside of function][13]
+userfunctions include files loaded 
+-----------------------
+27-02-2016 22:34:37.70574[4][4] - Elapsed time: 0.303 milliseconds
+[load_addons.php][Called outside of function][19]
+Loading addons 
+-----------------------
+27-02-2016 22:34:37.70576[4][4] - Elapsed time: 0.020 milliseconds
+[conversation_start.php][Called outside of function][34]
+Loaded all Includes 
+-----------------------
+27-02-2016 22:34:37.70622[4][4] - Elapsed time: 0.467 milliseconds
+[intialise_conversation.php][intialise_convoArray][28]
+Intialising conversation 
+-----------------------
+27-02-2016 22:34:37.70625[4][4] - Elapsed time: 0.028 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank topic array 
+-----------------------
+27-02-2016 22:34:37.70627[4][4] - Elapsed time: 0.023 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank that array 
+-----------------------
+27-02-2016 22:34:37.70629[4][4] - Elapsed time: 0.019 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank star array 
+-----------------------
+27-02-2016 22:34:37.70633[4][4] - Elapsed time: 0.033 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank input array 
+-----------------------
+27-02-2016 22:34:37.70635[4][4] - Elapsed time: 0.021 milliseconds
+[intialise_conversation.php][load_blank_stack][81]
+Loading blank stack 
+-----------------------
+27-02-2016 22:34:37.70637[4][4] - Elapsed time: 0.018 milliseconds
+[intialise_conversation.php][load_default_bot_values][105]
+Loading db bot personality properties 
+-----------------------
+27-02-2016 22:34:37.70638[3][4] - Elapsed time: 0.017 milliseconds
+[intialise_conversation.php][load_default_bot_values][109]
+load db bot personality values SQL: SELECT * FROM `program`.`botpersonality` WHERE `bot_id` = '1' 
+-----------------------
+27-02-2016 22:34:37.7065[2][4] - Elapsed time: 0.114 milliseconds
+[handle_user.php][load_new_client_defaults][24]
+Loading client defaults 
+-----------------------
+27-02-2016 22:34:37.70675[0][4] - Elapsed time: 0.258 milliseconds
+[conversation_start.php][Called outside of function][84]
+Debug level: 4
+session ID = sh4gqou15fl37gvv0vphja7k80 
+-----------------------
+27-02-2016 22:34:37.7068[2][4] - Elapsed time: 0.042 milliseconds
+[spell_checker.php][run_spell_checker_say][36]
+Starting function and setting timestamp. 
+-----------------------
+27-02-2016 22:34:37.70682[2][4] - Elapsed time: 0.022 milliseconds
+[spell_checker.php][spell_check][57]
+Preforming a spel chek on 你是男孩. 
+-----------------------
+27-02-2016 22:34:37.70687[2][4] - Elapsed time: 0.054 milliseconds
+[spell_checker.php][load_spelling_list][120]
+Loading the spellcheck list from the DB. 
+-----------------------
+27-02-2016 22:34:37.7076[4][4] - Elapsed time: 0.723 milliseconds
+[spell_checker.php][spell_check][74]
+Spelling check passed. 
+-----------------------
+27-02-2016 22:34:37.70764[4][4] - Elapsed time: 0.041 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.70768[4][4] - Elapsed time: 0.043 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.7077[2][4] - Elapsed time: 0.019 milliseconds
+[conversation_start.php][Called outside of function][146]
+Details:
+User say: 你是男孩
+Convo id: sh4gqou15fl37gvv0vphja7k80
+Bot id: 1
+Format: json 
+-----------------------
+27-02-2016 22:34:37.70771[4][4] - Elapsed time: 0.015 milliseconds
+[intialise_conversation.php][read_from_session][144]
+Reading from session 
+-----------------------
+27-02-2016 22:34:37.70773[4][4] - Elapsed time: 0.017 milliseconds
+[intialise_conversation.php][load_default_bot_values][105]
+Loading db bot personality properties 
+-----------------------
+27-02-2016 22:34:37.70775[3][4] - Elapsed time: 0.016 milliseconds
+[intialise_conversation.php][load_default_bot_values][109]
+load db bot personality values SQL: SELECT * FROM `program`.`botpersonality` WHERE `bot_id` = '1' 
+-----------------------
+27-02-2016 22:34:37.70786[4][4] - Elapsed time: 0.112 milliseconds
+[intialise_conversation.php][check_set_convo_id][529]
+Obtaining the convo id from form vars. Value: sh4gqou15fl37gvv0vphja7k80 
+-----------------------
+27-02-2016 22:34:37.70789[2][4] - Elapsed time: 0.026 milliseconds
+[intialise_conversation.php][check_set_bot][473]
+Checking and/or setting the current bot. 
+-----------------------
+27-02-2016 22:34:37.70791[3][4] - Elapsed time: 0.020 milliseconds
+[intialise_conversation.php][check_set_bot][491]
+Making sure the bot exists. SQL = SELECT * FROM `program`.`bots` WHERE bot_id = '1' and `bot_active`='1' 
+-----------------------
+27-02-2016 22:34:37.708[2][4] - Elapsed time: 0.096 milliseconds
+[intialise_conversation.php][check_set_bot][502]
+BOT ID: 1 
+-----------------------
+27-02-2016 22:34:37.70803[2][4] - Elapsed time: 0.027 milliseconds
+[intialise_conversation.php][check_set_user][556]
+Checking and setting the user info, as needed. 
+-----------------------
+27-02-2016 22:34:37.70813[4][4] - Elapsed time: 0.104 milliseconds
+[intialise_conversation.php][check_set_format][616]
+Using format: json 
+-----------------------
+27-02-2016 22:34:37.70816[2][4] - Elapsed time: 0.025 milliseconds
+[intialise_conversation.php][load_that][632]
+Loading the THAT array. 
+-----------------------
+27-02-2016 22:34:37.70818[3][4] - Elapsed time: 0.021 milliseconds
+[intialise_conversation.php][load_that][639]
+Getting conversation log entries for the current user. SQL:
+select `input`, `response` from `program`.`conversation_log` where `user_id` = 1 and `bot_id` = 1 order by `id` desc limit 10; 
+-----------------------
+27-02-2016 22:34:37.70858[1][4] - Elapsed time: 0.402 milliseconds
+[intialise_conversation.php][load_that][653]
+Inputs returned:Array
+(
+    [0] => 男孩
+    [1] => 你是男孩
+    [2] => 男孩
+    [3] => 男孩
+    [4] => HELLO
+    [5] => HI
+    [6] => HELLO
+    [7] => TEST
+    [8] => 是
+    [9] => BOY
+)
+ 
+-----------------------
+27-02-2016 22:34:37.70862[4][4] - Elapsed time: 0.035 milliseconds
+[intialise_conversation.php][load_that][654]
+Loading previous responses into the ~THAT~ array. 
+-----------------------
+27-02-2016 22:34:37.70866[1][4] - Elapsed time: 0.041 milliseconds
+[intialise_conversation.php][load_that][655]
+Responses returned:Array
+(
+    [0] => boy
+    [1] => 
+    [2] => boy
+    [3] => boy
+    [4] => 您好！请问有什么可以帮助您？
+    [5] => 
+    [6] => 
+    [7] => 
+    [8] => 激活会员，即刻享受优惠。
+    [9] => 
+)
+ 
+-----------------------
+27-02-2016 22:34:37.70871[2][4] - Elapsed time: 0.051 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.70873[4][4] - Elapsed time: 0.022 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.70875[4][4] - Elapsed time: 0.022 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '' 
+-----------------------
+27-02-2016 22:34:37.70877[4][4] - Elapsed time: 0.018 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.70879[4][4] - Elapsed time: 0.018 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.70882[4][4] - Elapsed time: 0.033 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.70884[4][4] - Elapsed time: 0.018 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.70885[2][4] - Elapsed time: 0.017 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.70888[4][4] - Elapsed time: 0.024 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank that array 
+-----------------------
+27-02-2016 22:34:37.70892[4][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.70894[4][4] - Elapsed time: 0.019 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.70897[4][4] - Elapsed time: 0.031 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.709[4][4] - Elapsed time: 0.031 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.70905[2][4] - Elapsed time: 0.049 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.70908[4][4] - Elapsed time: 0.037 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.70912[4][4] - Elapsed time: 0.034 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70915[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70917[4][4] - Elapsed time: 0.020 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70922[4][4] - Elapsed time: 0.054 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70925[4][4] - Elapsed time: 0.028 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70928[2][4] - Elapsed time: 0.027 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '激活会员，即刻享受优惠。' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.70933[4][4] - Elapsed time: 0.052 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70936[4][4] - Elapsed time: 0.032 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70941[4][4] - Elapsed time: 0.050 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70944[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '激活会员，即刻享受优惠。' 
+-----------------------
+27-02-2016 22:34:37.70948[2][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.7095[4][4] - Elapsed time: 0.021 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.70952[4][4] - Elapsed time: 0.020 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '' 
+-----------------------
+27-02-2016 22:34:37.70954[4][4] - Elapsed time: 0.018 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.70956[4][4] - Elapsed time: 0.018 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.70959[4][4] - Elapsed time: 0.036 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.70961[4][4] - Elapsed time: 0.020 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.70963[2][4] - Elapsed time: 0.018 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.70966[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.70968[4][4] - Elapsed time: 0.021 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.70971[4][4] - Elapsed time: 0.031 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.70973[4][4] - Elapsed time: 0.019 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.70976[2][4] - Elapsed time: 0.027 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.70978[4][4] - Elapsed time: 0.021 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.7098[4][4] - Elapsed time: 0.023 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '' 
+-----------------------
+27-02-2016 22:34:37.70982[4][4] - Elapsed time: 0.021 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.70984[4][4] - Elapsed time: 0.018 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.70987[4][4] - Elapsed time: 0.032 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.70989[4][4] - Elapsed time: 0.020 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.70991[2][4] - Elapsed time: 0.019 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.70994[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.70996[4][4] - Elapsed time: 0.022 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.71[4][4] - Elapsed time: 0.037 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.71002[4][4] - Elapsed time: 0.022 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.71005[2][4] - Elapsed time: 0.027 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71007[4][4] - Elapsed time: 0.022 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71009[4][4] - Elapsed time: 0.021 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '' 
+-----------------------
+27-02-2016 22:34:37.71012[4][4] - Elapsed time: 0.023 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.71018[4][4] - Elapsed time: 0.061 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.71022[4][4] - Elapsed time: 0.042 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.71024[4][4] - Elapsed time: 0.021 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.71026[2][4] - Elapsed time: 0.020 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.71029[4][4] - Elapsed time: 0.032 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.71031[4][4] - Elapsed time: 0.022 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.71035[4][4] - Elapsed time: 0.032 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.71037[4][4] - Elapsed time: 0.022 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.7104[2][4] - Elapsed time: 0.029 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71042[4][4] - Elapsed time: 0.023 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71045[4][4] - Elapsed time: 0.027 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.71047[4][4] - Elapsed time: 0.022 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.71049[4][4] - Elapsed time: 0.021 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.71053[4][4] - Elapsed time: 0.040 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.7106[4][4] - Elapsed time: 0.073 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.71063[2][4] - Elapsed time: 0.032 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '您好！请问有什么可以帮助您？' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.7107[4][4] - Elapsed time: 0.066 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.71075[4][4] - Elapsed time: 0.048 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.71082[4][4] - Elapsed time: 0.073 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.71086[4][4] - Elapsed time: 0.039 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '您好！请问有什么可以帮助您？' 
+-----------------------
+27-02-2016 22:34:37.7109[2][4] - Elapsed time: 0.037 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71092[4][4] - Elapsed time: 0.024 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71095[4][4] - Elapsed time: 0.025 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning 'boy' 
+-----------------------
+27-02-2016 22:34:37.71097[4][4] - Elapsed time: 0.022 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'boy' 
+-----------------------
+27-02-2016 22:34:37.71099[4][4] - Elapsed time: 0.026 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'boy' 
+-----------------------
+27-02-2016 22:34:37.71103[4][4] - Elapsed time: 0.039 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71106[4][4] - Elapsed time: 0.024 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71108[2][4] - Elapsed time: 0.022 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing 'BOY' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.71112[4][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71114[4][4] - Elapsed time: 0.024 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71118[4][4] - Elapsed time: 0.037 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.7112[4][4] - Elapsed time: 0.023 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71124[2][4] - Elapsed time: 0.033 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71126[4][4] - Elapsed time: 0.029 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71129[4][4] - Elapsed time: 0.025 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning 'boy' 
+-----------------------
+27-02-2016 22:34:37.71131[4][4] - Elapsed time: 0.022 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'boy' 
+-----------------------
+27-02-2016 22:34:37.71133[4][4] - Elapsed time: 0.022 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'boy' 
+-----------------------
+27-02-2016 22:34:37.71137[4][4] - Elapsed time: 0.038 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.7114[4][4] - Elapsed time: 0.024 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71142[2][4] - Elapsed time: 0.028 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing 'BOY' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.71146[4][4] - Elapsed time: 0.039 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71149[4][4] - Elapsed time: 0.026 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71153[4][4] - Elapsed time: 0.038 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71156[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71159[2][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71164[4][4] - Elapsed time: 0.045 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71167[4][4] - Elapsed time: 0.036 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '' 
+-----------------------
+27-02-2016 22:34:37.7117[4][4] - Elapsed time: 0.025 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.71172[4][4] - Elapsed time: 0.023 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.71176[4][4] - Elapsed time: 0.038 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.71179[4][4] - Elapsed time: 0.025 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.71181[2][4] - Elapsed time: 0.024 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.71185[4][4] - Elapsed time: 0.037 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '' 
+-----------------------
+27-02-2016 22:34:37.71188[4][4] - Elapsed time: 0.032 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '' 
+-----------------------
+27-02-2016 22:34:37.71192[4][4] - Elapsed time: 0.037 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '' 
+-----------------------
+27-02-2016 22:34:37.71194[4][4] - Elapsed time: 0.025 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '' 
+-----------------------
+27-02-2016 22:34:37.71198[2][4] - Elapsed time: 0.034 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.712[4][4] - Elapsed time: 0.026 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71203[4][4] - Elapsed time: 0.032 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning 'boy' 
+-----------------------
+27-02-2016 22:34:37.71206[4][4] - Elapsed time: 0.025 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'boy' 
+-----------------------
+27-02-2016 22:34:37.71208[4][4] - Elapsed time: 0.024 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'boy' 
+-----------------------
+27-02-2016 22:34:37.71212[4][4] - Elapsed time: 0.039 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71215[4][4] - Elapsed time: 0.026 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71217[2][4] - Elapsed time: 0.025 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing 'BOY' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.71221[4][4] - Elapsed time: 0.040 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71224[4][4] - Elapsed time: 0.032 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71228[4][4] - Elapsed time: 0.039 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71231[4][4] - Elapsed time: 0.027 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71235[4][4] - Elapsed time: 0.036 milliseconds
+[intialise_conversation.php][load_that][670]
+Loading previous user inputs into the ~INPUT~ array. 
+-----------------------
+27-02-2016 22:34:37.7124[2][4] - Elapsed time: 0.052 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71242[4][4] - Elapsed time: 0.027 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71245[4][4] - Elapsed time: 0.028 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71248[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71251[4][4] - Elapsed time: 0.026 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71255[4][4] - Elapsed time: 0.040 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71259[4][4] - Elapsed time: 0.039 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'BOY' 
+-----------------------
+27-02-2016 22:34:37.71262[2][4] - Elapsed time: 0.032 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing 'BOY' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71265[4][4] - Elapsed time: 0.032 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank input array 
+-----------------------
+27-02-2016 22:34:37.7127[2][4] - Elapsed time: 0.045 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71273[4][4] - Elapsed time: 0.033 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71276[4][4] - Elapsed time: 0.029 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '是' 
+-----------------------
+27-02-2016 22:34:37.71279[4][4] - Elapsed time: 0.027 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '是' 
+-----------------------
+27-02-2016 22:34:37.71281[4][4] - Elapsed time: 0.027 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '是' 
+-----------------------
+27-02-2016 22:34:37.71285[4][4] - Elapsed time: 0.041 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '是' 
+-----------------------
+27-02-2016 22:34:37.71289[4][4] - Elapsed time: 0.032 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '是' 
+-----------------------
+27-02-2016 22:34:37.71291[2][4] - Elapsed time: 0.027 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '是' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71296[2][4] - Elapsed time: 0.045 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71299[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71302[4][4] - Elapsed time: 0.033 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning 'TEST' 
+-----------------------
+27-02-2016 22:34:37.71305[4][4] - Elapsed time: 0.028 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'TEST' 
+-----------------------
+27-02-2016 22:34:37.71308[4][4] - Elapsed time: 0.027 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'TEST' 
+-----------------------
+27-02-2016 22:34:37.71312[4][4] - Elapsed time: 0.042 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'TEST' 
+-----------------------
+27-02-2016 22:34:37.71315[4][4] - Elapsed time: 0.029 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'TEST' 
+-----------------------
+27-02-2016 22:34:37.71317[2][4] - Elapsed time: 0.027 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing 'TEST' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71322[2][4] - Elapsed time: 0.045 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71325[4][4] - Elapsed time: 0.034 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71328[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71331[4][4] - Elapsed time: 0.028 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71334[4][4] - Elapsed time: 0.027 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71339[4][4] - Elapsed time: 0.047 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71341[4][4] - Elapsed time: 0.030 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71344[2][4] - Elapsed time: 0.027 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing 'HELLO' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71349[2][4] - Elapsed time: 0.047 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71352[4][4] - Elapsed time: 0.031 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71357[4][4] - Elapsed time: 0.048 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning 'HI' 
+-----------------------
+27-02-2016 22:34:37.71361[4][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'HI' 
+-----------------------
+27-02-2016 22:34:37.71363[4][4] - Elapsed time: 0.029 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'HI' 
+-----------------------
+27-02-2016 22:34:37.71368[4][4] - Elapsed time: 0.043 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'HI' 
+-----------------------
+27-02-2016 22:34:37.71371[4][4] - Elapsed time: 0.034 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'HI' 
+-----------------------
+27-02-2016 22:34:37.71374[2][4] - Elapsed time: 0.029 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing 'HI' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71378[2][4] - Elapsed time: 0.042 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71382[4][4] - Elapsed time: 0.035 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71385[4][4] - Elapsed time: 0.032 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71388[4][4] - Elapsed time: 0.029 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71391[4][4] - Elapsed time: 0.028 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71395[4][4] - Elapsed time: 0.048 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71401[4][4] - Elapsed time: 0.053 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = 'HELLO' 
+-----------------------
+27-02-2016 22:34:37.71406[2][4] - Elapsed time: 0.051 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing 'HELLO' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71413[2][4] - Elapsed time: 0.070 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71416[4][4] - Elapsed time: 0.034 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.7142[4][4] - Elapsed time: 0.037 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '男孩' 
+-----------------------
+27-02-2016 22:34:37.71423[4][4] - Elapsed time: 0.031 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '男孩' 
+-----------------------
+27-02-2016 22:34:37.71426[4][4] - Elapsed time: 0.030 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71431[4][4] - Elapsed time: 0.046 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71434[4][4] - Elapsed time: 0.036 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71437[2][4] - Elapsed time: 0.030 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '男孩' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71442[2][4] - Elapsed time: 0.043 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.71445[4][4] - Elapsed time: 0.037 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71449[4][4] - Elapsed time: 0.033 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '男孩' 
+-----------------------
+27-02-2016 22:34:37.71452[4][4] - Elapsed time: 0.033 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '男孩' 
+-----------------------
+27-02-2016 22:34:37.71459[4][4] - Elapsed time: 0.074 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71465[4][4] - Elapsed time: 0.055 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71468[4][4] - Elapsed time: 0.033 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71471[2][4] - Elapsed time: 0.030 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '男孩' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71476[2][4] - Elapsed time: 0.050 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.7148[4][4] - Elapsed time: 0.039 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71483[4][4] - Elapsed time: 0.035 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.71487[4][4] - Elapsed time: 0.031 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.7149[4][4] - Elapsed time: 0.031 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.71494[4][4] - Elapsed time: 0.047 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.71498[4][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.71501[2][4] - Elapsed time: 0.032 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '你是男孩' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71506[2][4] - Elapsed time: 0.045 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.7151[4][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.71514[4][4] - Elapsed time: 0.041 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '男孩' 
+-----------------------
+27-02-2016 22:34:37.71517[4][4] - Elapsed time: 0.032 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '男孩' 
+-----------------------
+27-02-2016 22:34:37.7152[4][4] - Elapsed time: 0.032 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71525[4][4] - Elapsed time: 0.047 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71528[4][4] - Elapsed time: 0.034 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '男孩' 
+-----------------------
+27-02-2016 22:34:37.71534[2][4] - Elapsed time: 0.053 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '男孩' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71685[2][4] - Elapsed time: 1.517 milliseconds
+[intialise_conversation.php][load_bot_config][315]
+Loading config data for the current bot. 
+-----------------------
+27-02-2016 22:34:37.7169[3][4] - Elapsed time: 0.049 milliseconds
+[intialise_conversation.php][load_bot_config][319]
+load bot config SQL: SELECT * FROM `program`.`bots` WHERE bot_id = '1' 
+-----------------------
+27-02-2016 22:34:37.71704[4][4] - Elapsed time: 0.136 milliseconds
+[intialise_conversation.php][load_bot_config][323]
+Loading bot details from the database. 
+-----------------------
+27-02-2016 22:34:37.71709[0][4] - Elapsed time: 0.053 milliseconds
+[conversation_start.php][Called outside of function][167]
+Debug level = 4 
+-----------------------
+27-02-2016 22:34:37.71713[0][4] - Elapsed time: 0.035 milliseconds
+[conversation_start.php][Called outside of function][169]
+Debug level = 4 
+-----------------------
+27-02-2016 22:34:37.71716[4][4] - Elapsed time: 0.035 milliseconds
+[intialise_conversation.php][add_new_conversation_vars][165]
+New conversation vars 
+-----------------------
+27-02-2016 22:34:37.7172[2][4] - Elapsed time: 0.035 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '你是男孩' to the front of the [user_say] array 
+-----------------------
+27-02-2016 22:34:37.71724[4][4] - Elapsed time: 0.042 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank user_say array 
+-----------------------
+27-02-2016 22:34:37.71729[2][4] - Elapsed time: 0.055 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '你是男孩' to the front of the [input] array 
+-----------------------
+27-02-2016 22:34:37.71734[4][4] - Elapsed time: 0.052 milliseconds
+[make_conversation.php][make_conversation][22]
+Making conversation 
+-----------------------
+27-02-2016 22:34:37.71738[4][4] - Elapsed time: 0.037 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.71743[4][4] - Elapsed time: 0.053 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.71749[4][4] - Elapsed time: 0.058 milliseconds
+[find_aiml.php][get_aiml_to_parse][808]
+Running all functions to get the correct aiml from the DB 
+-----------------------
+27-02-2016 22:34:37.71763[4][4] - Elapsed time: 0.141 milliseconds
+[find_aiml.php][find_userdefined_aiml][767]
+Looking for user defined responses 
+-----------------------
+27-02-2016 22:34:37.71768[3][4] - Elapsed time: 0.044 milliseconds
+[find_aiml.php][find_userdefined_aiml][779]
+User defined SQL: SELECT * FROM `program`.`aiml_userdefined` WHERE
+    `bot_id` = '1' AND
+    (`user_id` = '1' OR `user_id` = '-1') AND
+    `pattern` = '你是男孩' 
+-----------------------
+27-02-2016 22:34:37.71778[2][4] - Elapsed time: 0.105 milliseconds
+[find_aiml.php][find_userdefined_aiml][795]
+User defined rows found: '0' 
+-----------------------
+27-02-2016 22:34:37.71783[4][4] - Elapsed time: 0.047 milliseconds
+[find_aiml.php][find_aiml_matches][882]
+Finding the aiml matches from the DB 
+-----------------------
+27-02-2016 22:34:37.71788[4][4] - Elapsed time: 0.048 milliseconds
+[find_aiml.php][get_last_word][22]
+Sentence: 你是男孩. Last word:你是男孩 
+-----------------------
+27-02-2016 22:34:37.71792[4][4] - Elapsed time: 0.037 milliseconds
+[find_aiml.php][get_first_word][35]
+Sentence: 你是男孩. First word:你是男孩 
+-----------------------
+27-02-2016 22:34:37.71801[4][4] - Elapsed time: 0.098 milliseconds
+[find_aiml.php][find_aiml_matches][896]
+Stored topic = '' 
+-----------------------
+27-02-2016 22:34:37.71806[4][4] - Elapsed time: 0.044 milliseconds
+[find_aiml.php][make_like_pattern][47]
+Making a like pattern to use in the sql 
+-----------------------
+27-02-2016 22:34:37.7181[4][4] - Elapsed time: 0.044 milliseconds
+[find_aiml.php][make_like_pattern][48]
+Transforming thatpattern: BOY 
+-----------------------
+27-02-2016 22:34:37.71814[4][4] - Elapsed time: 0.043 milliseconds
+[find_aiml.php][make_like_pattern][57]
+word list:
+Array
+(
+    [0] => BOY
+)
+ 
+-----------------------
+27-02-2016 22:34:37.7182[1][4] - Elapsed time: 0.054 milliseconds
+[find_aiml.php][Called outside of function][103]
+PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103 
+-----------------------
+27-02-2016 22:34:37.71831[1][4] - Elapsed time: 0.109 milliseconds
+[find_aiml.php][Called outside of function][103]
+PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103 
+-----------------------
+27-02-2016 22:34:37.71837[4][4] - Elapsed time: 0.066 milliseconds
+[find_aiml.php][make_like_pattern][106]
+returning like pattern:
+
+  `thatpattern` like 'BOY % BOY' OR
+  `thatpattern` like 'BOY %' OR
+ OR  
+-----------------------
+27-02-2016 22:34:37.71842[4][4] - Elapsed time: 0.043 milliseconds
+[find_aiml.php][wordsCount_inSentence][119]
+Sentence: 你是男孩 numWords:1 
+-----------------------
+27-02-2016 22:34:37.71847[3][4] - Elapsed time: 0.056 milliseconds
+[find_aiml.php][find_aiml_matches][953]
+Match AIML sql: SELECT `id`, `pattern`, `thatpattern`, `topic` FROM `program`.`aiml` WHERE
+   bot_id = '1'  AND (
+  `pattern` = '_' OR
+  `pattern` = '*' OR
+  `pattern` = '你是男孩' OR
+  `pattern` = 'RANDOM PICKUP LINE'
+  )  order by `topic` desc, `id` asc, `pattern` asc; 
+-----------------------
+27-02-2016 22:34:37.72161[2][4] - Elapsed time: 3.140 milliseconds
+[find_aiml.php][find_aiml_matches][959]
+FOUND: (3) potential AIML matches 
+-----------------------
+27-02-2016 22:34:37.72178[4][4] - Elapsed time: 0.166 milliseconds
+[find_aiml.php][unset_all_bad_pattern_matches][147]
+NEW FUNC Searching through 3 rows to unset bad matches 
+-----------------------
+27-02-2016 22:34:37.72182[4][4] - Elapsed time: 0.045 milliseconds
+[find_aiml.php][unset_all_bad_pattern_matches][156]
+Blue 5 to Blue leader. Starting my run now! 
+-----------------------
+27-02-2016 22:34:37.72203[4][4] - Elapsed time: 0.208 milliseconds
+[find_aiml.php][unset_all_bad_pattern_matches][258]
+Found 1 relevant rows 
+-----------------------
+27-02-2016 22:34:37.72208[4][4] - Elapsed time: 0.049 milliseconds
+[find_aiml.php][score_matches][295]
+Scoring the matches. 
+-----------------------
+27-02-2016 22:34:37.72227[4][4] - Elapsed time: 0.193 milliseconds
+[find_aiml.php][score_matches][538]
+Sorted array $allrows:
+Array
+(
+    [0] => Array
+        (
+            [id] => 12173
+            [pattern] => 你是男孩
+            [thatpattern] => BOY
+            [topic] => 
+            [aiml_id] => 12173
+            [bot_id] => 1
+            [score] => 274
+            [track_score] => current bot, direct thatpattern match, direct pattern match, direct word match: 你是男孩
+        )
+
+)
+ 
+-----------------------
+27-02-2016 22:34:37.72233[2][4] - Elapsed time: 0.055 milliseconds
+[find_aiml.php][get_winning_category][647]
+And the winner is... 12173! 
+-----------------------
+27-02-2016 22:34:37.72263[4][4] - Elapsed time: 0.298 milliseconds
+[find_aiml.php][get_winning_category][660]
+Returning the AIML template for id# 12173. Value:
+'是的，我就是' 
+-----------------------
+27-02-2016 22:34:37.72269[4][4] - Elapsed time: 0.059 milliseconds
+[find_aiml.php][get_highest_scoring_row][631]
+Best Responses: Array
+(
+    [0] => Array
+        (
+            [id] => 12173
+            [pattern] => 你是男孩
+            [thatpattern] => BOY
+            [topic] => 
+            [aiml_id] => 12173
+            [bot_id] => 1
+            [score] => 274
+            [track_score] => current bot, direct thatpattern match, direct pattern match, direct word match: 你是男孩
+        )
+
+)
+ 
+-----------------------
+27-02-2016 22:34:37.72272[2][4] - Elapsed time: 0.039 milliseconds
+[find_aiml.php][get_highest_scoring_row][632]
+Will use randomly picked best response chosen out of 1 responses with same score: 12173 - 你是男孩 
+-----------------------
+27-02-2016 22:34:37.72277[4][4] - Elapsed time: 0.045 milliseconds
+[find_aiml.php][get_aiml_to_parse][841]
+Will be parsing id:12173 (你是男孩) 
+-----------------------
+27-02-2016 22:34:37.72281[3][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml.php][parse_matched_aiml][190]
+Run the aiml parse in normal mode (normal or srai) 
+-----------------------
+27-02-2016 22:34:37.72284[2][4] - Elapsed time: 0.036 milliseconds
+[parse_aiml.php][set_wildcards][250]
+Setting Wildcards 
+-----------------------
+27-02-2016 22:34:37.72289[2][4] - Elapsed time: 0.051 milliseconds
+[parse_aiml_as_XML.php][parse_aiml_as_XML][22]
+Parsing the AIML template as XML 
+-----------------------
+27-02-2016 22:34:37.72293[2][4] - Elapsed time: 0.037 milliseconds
+[parse_aiml_as_XML.php][add_text_tags][53]
+Adding some TEXT tags into the template, just because I can... 
+-----------------------
+27-02-2016 22:34:37.72299[4][4] - Elapsed time: 0.057 milliseconds
+[parse_aiml_as_XML.php][add_text_tags][79]
+Returning template:
+<template><text>是的，我就是</text></template> 
+-----------------------
+27-02-2016 22:34:37.72308[2][4] - Elapsed time: 0.090 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][142]
+Recursively parsing the AIML template. 
+-----------------------
+27-02-2016 22:34:37.72315[4][4] - Elapsed time: 0.071 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][149]
+Processing element template at level 0. element XML = <?xml version="1.0"?>
+<template><text>&#x662F;&#x7684;&#xFF0C;&#x6211;&#x5C31;&#x662F;</text></template>
+ 
+-----------------------
+27-02-2016 22:34:37.7232[4][4] - Elapsed time: 0.052 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][169]
+function parse_template_tag does not exist. Parsing tag as text. 
+-----------------------
+27-02-2016 22:34:37.72325[2][4] - Elapsed time: 0.054 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][142]
+Recursively parsing the AIML template. 
+-----------------------
+27-02-2016 22:34:37.72332[4][4] - Elapsed time: 0.064 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][149]
+Processing element text at level 1. element XML = <text>是的，我就是</text> 
+-----------------------
+27-02-2016 22:34:37.72338[4][4] - Elapsed time: 0.064 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][156]
+Function parse_text_tag does exist. Processing now. 
+-----------------------
+27-02-2016 22:34:37.72343[4][4] - Elapsed time: 0.046 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][159]
+Passing element text to the parse_text_tag function 
+-----------------------
+27-02-2016 22:34:37.72347[2][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml_as_XML.php][parse_text_tag][201]
+Parsing a TEXT tag. 
+-----------------------
+27-02-2016 22:34:37.72351[4][4] - Elapsed time: 0.042 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][162]
+Adding '是的，我就是' to the response array. tag name is text 
+-----------------------
+27-02-2016 22:34:37.72356[2][4] - Elapsed time: 0.046 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.7236[4][4] - Elapsed time: 0.043 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.72364[4][4] - Elapsed time: 0.042 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '是的，我就是' 
+-----------------------
+27-02-2016 22:34:37.72368[4][4] - Elapsed time: 0.039 milliseconds
+[parse_aiml_as_XML.php][parseTemplateRecursive][183]
+Adding '是的，我就是' to the response array. tag name is template. 
+-----------------------
+27-02-2016 22:34:37.72372[2][4] - Elapsed time: 0.043 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][95]
+Imploding an array into a string. (recursively, if necessary) 
+-----------------------
+27-02-2016 22:34:37.72376[4][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][105]
+The variable $input is of type array 
+-----------------------
+27-02-2016 22:34:37.7238[4][4] - Elapsed time: 0.041 milliseconds
+[parse_aiml_as_XML.php][implode_recursive][128]
+Imploding complete. Returning '是的，我就是' 
+-----------------------
+27-02-2016 22:34:37.72385[4][4] - Elapsed time: 0.044 milliseconds
+[parse_aiml_as_XML.php][parse_aiml_as_XML][41]
+Completed parsing the template. The bot will say: 是的，我就是 
+-----------------------
+27-02-2016 22:34:37.72389[4][4] - Elapsed time: 0.042 milliseconds
+[parse_aiml.php][parse_matched_aiml][195]
+normal - Saving for next turn 
+-----------------------
+27-02-2016 22:34:37.72393[4][4] - Elapsed time: 0.038 milliseconds
+[parse_aiml.php][save_for_nextturn][235]
+Saving that and that_raw for next turn 
+-----------------------
+27-02-2016 22:34:37.72396[2][4] - Elapsed time: 0.039 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '是的，我就是' to the front of the [that_raw] array 
+-----------------------
+27-02-2016 22:34:37.72402[4][4] - Elapsed time: 0.052 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank that_raw array 
+-----------------------
+27-02-2016 22:34:37.72409[2][4] - Elapsed time: 0.075 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '是的，我就是' to the front of the [that] array 
+-----------------------
+27-02-2016 22:34:37.72415[4][4] - Elapsed time: 0.064 milliseconds
+[parse_aiml.php][clean_that][218]
+Cleaning up the ~THAT~ tag: '是的，我就是' 
+-----------------------
+27-02-2016 22:34:37.7242[4][4] - Elapsed time: 0.043 milliseconds
+[misc_functions.php][normalize_text][56]
+Begin normalization - text = '是的，我就是' 
+-----------------------
+27-02-2016 22:34:37.72426[4][4] - Elapsed time: 0.059 milliseconds
+[misc_functions.php][normalize_text][71]
+Normalization complete. Text = '是的，我就是' 
+-----------------------
+27-02-2016 22:34:37.7243[4][4] - Elapsed time: 0.040 milliseconds
+[parse_aiml.php][clean_that][223]
+Cleaning Complete. output = '是的，我就是' 
+-----------------------
+27-02-2016 22:34:37.72438[2][4] - Elapsed time: 0.083 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '是的，我就是' to the front of the [parsed_template] array 
+-----------------------
+27-02-2016 22:34:37.72443[4][4] - Elapsed time: 0.050 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank parsed_template array 
+-----------------------
+27-02-2016 22:34:37.72448[2][4] - Elapsed time: 0.055 milliseconds
+[intialise_conversation.php][push_on_front_convoArr][204]
+Pushing '是的，我就是' to the front of the [template] array 
+-----------------------
+27-02-2016 22:34:37.72454[4][4] - Elapsed time: 0.051 milliseconds
+[intialise_conversation.php][load_blank_array_element][59]
+Loading blank template array 
+-----------------------
+27-02-2016 22:34:37.7246[2][4] - Elapsed time: 0.061 milliseconds
+[intialise_conversation.php][log_conversation][367]
+Saving the conversation to the DB. 
+-----------------------
+27-02-2016 22:34:37.72464[3][4] - Elapsed time: 0.046 milliseconds
+[intialise_conversation.php][log_conversation][394]
+Saving conservation SQL: INSERT INTO `program`.`conversation_log` (
+      `id` ,
+      `input` ,
+      `response` ,
+      `user_id` ,
+      `convo_id` ,
+      `bot_id` ,
+      `timestamp`
+    )
+    VALUES (
+      NULL ,
+      '你是男孩',
+      '是的，我就是',
+      '1',
+      'sh4gqou15fl37gvv0vphja7k80',
+      '1',
+      CURRENT_TIMESTAMP
+    ) 
+-----------------------
+27-02-2016 22:34:37.7249[4][4] - Elapsed time: 0.252 milliseconds
+[intialise_conversation.php][write_to_session][130]
+Saving to session 
+-----------------------
+27-02-2016 22:34:37.72503[3][4] - Elapsed time: 0.139 milliseconds
+[display_conversation.php][get_conversation_to_display][48]
+get_conversation SQL: SELECT * FROM `program`.`conversation_log`
+        WHERE
+        `user_id` = '1'
+        AND `bot_id` = '1'
+        AND `convo_id` = 'sh4gqou15fl37gvv0vphja7k80'
+        ORDER BY id DESC  LIMIT 1  
+-----------------------
+27-02-2016 22:34:37.72527[2][4] - Elapsed time: 0.240 milliseconds
+[display_conversation.php][get_conversation_to_display][62]
+Found '1' lines of conversation 
+-----------------------
+27-02-2016 22:34:37.72536[4][4] - Elapsed time: 0.085 milliseconds
+[display_conversation.php][get_conversation][77]
+Processing conversation as json 
+-----------------------
+27-02-2016 22:34:37.72543[2][4] - Elapsed time: 0.075 milliseconds
+[display_conversation.php][get_json][126]
+Outputting response as JSON 
+-----------------------
+27-02-2016 22:34:37.72549[4][4] - Elapsed time: 0.060 milliseconds
+[display_conversation.php][get_json][137]
+Returning JSON string: {"convo_id":"sh4gqou15fl37gvv0vphja7k80","usersay":"\u4f60\u662f\u7537\u5b69","botsay":"\u662f\u7684\uff0c\u6211\u5c31\u662f"} 
+-----------------------
+27-02-2016 22:34:37.72555[2][4] - Elapsed time: 0.053 milliseconds
+[conversation_start.php][Called outside of function][202]
+Closing Database 
+-----------------------
+27-02-2016 22:34:37.72559[2][4] - Elapsed time: 0.039 milliseconds
+[PDO_functions.php][db_close][49]
+This DB is now closed. You don't have to go home, but you can't stay here. 
+-----------------------
+27-02-2016 22:34:37.72577[0][4] - Elapsed time: 0.187 milliseconds
+[conversation_start.php][Called outside of function][207]
+Conversation Ending. Elapsed time: 21.069 milliseconds. 
+-----------------------
+Debug Level: 4
+-----------------------
+Debug Mode: 1
+-----------------------
+CONVERSATION ARRAY
+-----------------------
+Array
+(
+    [conversation] => Array
+        (
+            [convo_id] => sh4gqou15fl37gvv0vphja7k80
+            [bot_name] => dog
+            [bot_id] => 1
+            [format] => json
+            [unknown_user] => Seeker
+            [user_name] => Seeker
+            [user_id] => 1
+            [totallines] => 1
+            [conversation_lines] => 1
+            [remember_up_to] => 10
+            [debugemail] => happyjoblzp@126.com
+            [debug_level] => 4
+            [debugmode] => 1
+            [save_state] => session
+            [default_aiml_pattern] => RANDOM PICKUP LINE
+            [bot_parent_id] => 1
+        )
+
+    [client_properties] => Array
+        (
+            [ip_address] => 183.128.94.9
+            [name] => Seeker
+        )
+
+    [that] => Array
+        (
+            [1] => Array
+                (
+                    [1] => 是的，我就是
+                )
+
+            [2] => Array
+                (
+                    [1] => BOY
+                )
+
+            [3] => Array
+                (
+                    [1] => 
+                )
+
+            [4] => Array
+                (
+                    [1] => BOY
+                )
+
+            [5] => Array
+                (
+                    [1] => BOY
+                )
+
+            [6] => Array
+                (
+                    [1] => 您好！请问有什么可以帮助您？
+                )
+
+            [7] => Array
+                (
+                    [1] => 
+                )
+
+            [8] => Array
+                (
+                    [1] => 
+                )
+
+            [9] => Array
+                (
+                    [1] => 
+                )
+
+            [10] => Array
+                (
+                    [1] => 激活会员，即刻享受优惠。
+                )
+
+            [12] => 
+        )
+
+    [input] => Array
+        (
+            [1] => 你是男孩
+            [2] => 男孩
+            [3] => 你是男孩
+            [4] => 男孩
+            [5] => 男孩
+            [6] => HELLO
+            [7] => HI
+            [8] => HELLO
+            [9] => TEST
+            [10] => 是
+        )
+
+    [time_start] => 1456583677.7047
+    [aiml] => Array
+        (
+            [user_raw] => 你是男孩
+            [lookingfor] => 你是男孩
+            [template_id] => 12173
+            [pattern] => 你是男孩
+            [thatpattern] => BOY
+            [template] => 是的，我就是
+            [html_template] => 
+            [topic] => 
+            [score] => 274
+            [aiml_id] => 12173
+            [parsed_template] => 是的，我就是
+        )
+
+    [user_say] => Array
+        (
+            [1] => 你是男孩
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] => 
+        )
+
+    [that_raw] => Array
+        (
+            [1] => Array
+                (
+                    [1] => 
+                    [2] => 是的，我就是
+                )
+
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] => 
+            [12] => 
+        )
+
+    [parsed_template] => Array
+        (
+            [1] => 是的，我就是
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] => 
+        )
+
+    [template] => Array
+        (
+            [1] => 是的，我就是
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] => 
+        )
+
+    [send_to_user] => {"convo_id":"sh4gqou15fl37gvv0vphja7k80","usersay":"\u4f60\u662f\u7537\u5b69","botsay":"\u662f\u7684\uff0c\u6211\u5c31\u662f"}
+)
+
+-----------------------
+Total execution time: 21.069 Milliseconds. Goodbye.

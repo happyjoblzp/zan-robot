@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>   
+        <pattern>激活</pattern>
+        <template>激活会员，即刻享受优惠。</template>
+    </category>
+    <category>   
+        <pattern>激活</pattern>
+        <template>激活会员，即刻享受优惠。</template>
+    </category>	
+</aiml>

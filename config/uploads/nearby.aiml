@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category><pattern>这哪是 *</pattern><template>您可以输入您所在的地理位置，这样更准确一些。</template></category>
+    <category><pattern>你在哪</pattern><template>您是想问布丁都分布在哪些地方么？新版微信，可以点“预订”-“查询酒店”查找哦~~</template></category>
+    <category><pattern>你在哪？</pattern><template>您是想问布丁都分布在哪些地方么？新版微信，可以点“预订”-“查询酒店”查找哦~~</template></category>    
+    <category><pattern>附近有啥酒店不？</pattern><template>您是想问布丁都分布在哪些地方么？新版微信，可以点“预订”-“查询酒店”查找哦~~</template></category>
+    <category><pattern>附近</pattern><template>您是想问布丁都分布在哪些地方么？新版微信，可以点“预订”-“查询酒店”查找哦~~</template></category>
+    <category><pattern>附近 *</pattern><template>您是想问布丁都分布在哪些地方么？新版微信，可以点“预订”-“查询酒店”查找哦~~</template></category>    
+    <category><pattern>* 附近</pattern><template>您是想问布丁都分布在哪些地方么？新版微信，可以点“预订”-“查询酒店”查找哦~~</template></category>    
+    <category><pattern>* 附近 *</pattern><template>您是想问布丁都分布在哪些地方么？新版微信，可以点“预订”-“查询酒店”查找哦~~</template></category>        
+</aiml>

@@ -1,0 +1,74 @@
+02/27/2016 14:48:13 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:48:13 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:54:17 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:54:17 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:54:53 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:54:53 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:55:59 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:55:59 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:56:08 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:56:08 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:57:36 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:57:36 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:57:41 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:57:41 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:57:51 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:57:51 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:58:06 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:58:06 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:58:44 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:58:44 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:59:05 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:59:05 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:59:35 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:59:35 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:59:53 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:59:53 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:59:58 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 14:59:58 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:45:44 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:45:44 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:51:43 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:51:43 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:52:42 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:52:42 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:52:48 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:52:48 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:52:55 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:52:55 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:53:42 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 19:53:42 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:02:46 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:02:46 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:21:09 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:21:09 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:26:59 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:26:59 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:29:27 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:29:27 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:37:39 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:37:39 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:38:04 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:38:04 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:44:59 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:44:59 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:45:06 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:45:06 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:58:04 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 20:58:04 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 21:12:40 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 21:12:40 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 21:14:28 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 21:14:28 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 21:17:42 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 21:17:42 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:20:37 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:20:37 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:30:48 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:30:48 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:32:02 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:32:02 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:32:08 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:32:08 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:34:37 - PHP ERROR [Notice] -Undefined variable: likePatternArr in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103
+02/27/2016 22:34:37 - PHP ERROR [Warning] -implode(): Invalid arguments passed in /var/www/html/chatbot/core/aiml/find_aiml.php on Line 103

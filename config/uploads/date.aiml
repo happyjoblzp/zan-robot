@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category><pattern>一周有 * 天</pattern><template>一周有7天</template></category>
+    <category><pattern>一年有 * 天</pattern><template>一年有365天</template></category>        
+</aiml>

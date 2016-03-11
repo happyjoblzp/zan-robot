@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aiml PUBLIC "-//W3C//DTD Specification Version 1.0//EN" "http://www.program-o.com/xml/aiml.dtd">
+<aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1">
+    <category>   
+        <pattern>激活</pattern>
+        <template>激活会员，即刻享受优惠。</template>
+    </category>
+    <category>   
+        <pattern>激活</pattern>
+        <template>激活会员，即刻享受优惠。</template>
+    </category>	
+</aiml>

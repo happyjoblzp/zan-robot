@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aiml PUBLIC "-//W3C//DTD Specification Version 1.0//EN" "http://www.program-o.com/xml/aiml.dtd">
+<aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1">
+    <category><pattern>是</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>是的呀</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>是的呢</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>是的啊</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>是的吖</pattern><template><srai>是的</srai></template></category>    
+    <category><pattern>是啊</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>是呢</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>是吖</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>是哇</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>嗯</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>恩</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>嗯嗯</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>嗯呢</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>对啊</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>对呀</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>对吖</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>对的</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>素的</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>对</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>对了</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>说对了</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>你说对了</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>你继续说</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>继续</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>你说啥</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>对昂</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>昂</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>是吧</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>Yes</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>好呀</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>好吧</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>好啊</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>好吖</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>好哇</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>好</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>好呢</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>有啥用</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>你说</pattern><template><srai>是的</srai></template></category>
+    <category><pattern>好的</pattern><template><srai>是的</srai></template></category>
+    
+    <category><pattern>不知道啊</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不知道</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>我不知道</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>我不知道啊</pattern><template><srai>不是</srai></template></category>
+    
+    <!-- 各种否定 -->
+    <category><pattern>不啊</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>no</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>not</pattern><template><srai>不是 *</srai></template></category>
+    <category><pattern>非也</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不啊</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不哇</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不用</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不用啊</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不用 *</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不用了</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不用了 *</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>才不是呢</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不好</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不对</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不对 *</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不了</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不呢</pattern><template><srai>不是</srai></template></category>
+    
+    <category><pattern>不是的</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不是这样的</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不是这个意思</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不不</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>也不是</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>也不是 *</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不是呢</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不是啊</pattern><template><srai>不是</srai></template></category>
+    <category><pattern>不是吖</pattern><template><srai>不是</srai></template></category>
+    
+    <category><pattern>不是</pattern><template>那您要问什么呢</template></category>
+      
+</aiml>

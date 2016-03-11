@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aiml PUBLIC "-//W3C//DTD Specification Version 1.0//EN" "http://www.program-o.com/xml/aiml.dtd">
+<aiml version="1.0.1" xmlns="http://alicebot.org/2001/AIML-1.0.1">
+    <category><pattern>hello入口</pattern>
+        <template>
+            <random>
+                <li>您好！请问有什么可以帮助您？</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>有</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>有的</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>有呢</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>有啊</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>对啊</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>对的</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>好啊</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>    
+    <category><pattern>是呢</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>是啊</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>是哇</pattern><that>您好！请问有什么可以帮助您？</that><template>有啥问题您直接说呗~ 我这候着您呐</template></category>
+    <category><pattern>男孩</pattern><template>boy</template></category>
+    
+    <category><pattern>HI *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>HELLO *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>HI</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>HEY</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>HELLO</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>HOW ARE YOU</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>更多</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>你说话啊</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>在</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>那啥</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>有人在</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>有客服吗</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>来点反应</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>有人</pattern><template><srai>hello入口</srai></template></category>    
+    <category><pattern>在 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>有人在 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>有人 *</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>你好</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>你好 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>您好</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>您好 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>哈喽</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>哈喽 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>喽哈</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>好啊</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>好啊 *</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>老板？</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>老板</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>你是</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>什么情况哦</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>什么情况</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>什么情况哦？</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>什么情况？</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>神马情况</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>啥情况？</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>啥情况</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>你在哪</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>你是谁</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>是在哪里</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>在哪里啊</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>?</pattern><template><srai>hello入口</srai></template></category>    
+    <category><pattern>+</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>更多</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>? *</pattern><template><srai>hello入口</srai></template></category>    
+    <category><pattern>？</pattern><template><srai>hello入口</srai></template></category>        
+    <category><pattern>？ *</pattern><template><srai>hello入口</srai></template></category>    
+    <category><pattern>袄</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>嗨</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>嗨 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>啊</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>啊 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>额</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>亲</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>亲 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>亲爱的</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>亲爱的 *</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>哦哦</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>嗷嗷</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>噢噢</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>聊聊</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>哦 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>嗷 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>噢 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>聊 *</pattern><template><srai>hello入口</srai></template></category>
+    
+    <category><pattern>上午好</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>早上好</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>下午好</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>晚上好</pattern><template><srai>hello入口</srai></template></category>    
+    <category><pattern>上午好 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>早上好 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>下午好 *</pattern><template><srai>hello入口</srai></template></category>
+    <category><pattern>晚上好 *</pattern><template><srai>hello入口</srai></template></category>
+
+</aiml>
